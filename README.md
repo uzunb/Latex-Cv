@@ -8,3 +8,5 @@
 
 Also, you can use [FlowCV](https://flowcv.io/start-resume)
 
+This CV is an citation from [Muratcan Karacabey](https://github.com/muratcankaracabey/latex_cv)
+
